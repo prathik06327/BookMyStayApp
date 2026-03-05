@@ -1,0 +1,10 @@
+/**
+ * Represents a Single Room type in the hotel.
+ */
+
+public class SingleRoom extends Room {
+
+    public SingleRoom() {
+        super("Single Room", 1, 200, 100.0);
+    }
+}
