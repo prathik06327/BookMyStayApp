@@ -1,10 +1,4 @@
-/**
- * SearchService
- *
- * Handles read-only search operations for available rooms.
- *
- * Author: Kabilesh C
- */
+
 
 import java.util.List;
 
